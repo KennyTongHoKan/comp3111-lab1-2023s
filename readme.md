@@ -1,3 +1,5 @@
-Tong Ho Kan 20779073
+Name: Tong Ho Kan 
 
-![alt text](screenshot.png "screenshot")
+ID: 20779073
+
+![alt text](image.png "screenshot")
